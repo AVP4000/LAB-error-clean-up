@@ -1,4 +1,5 @@
-// import '../styles/main.scss'; // You have to import your styles for them to work. Comment in this line
+import '../styles/main.scss'; // You have to import your styles for them to work. Comment in this line
+
 const houses = [
   {
     house: 'gryffindor',
